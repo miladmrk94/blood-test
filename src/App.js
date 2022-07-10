@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="container bg-red-50 w-screen h-screen p-4 flex items-center  flex-col">
+    <div className="container bg-gray-50-50 w-screen h-screen p-4 flex items-center  flex-col">
       <div>
         <img src='https://s6.uupload.ir/files/untitled-1_shg.png' alt='blood-logo'/>
       </div>
